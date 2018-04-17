@@ -1,0 +1,9 @@
+Para ejecutar este programa hay que tener unas cuantas consideraciones:
+1. instalar graphlab (como se vio en clase)
+2. al intalarlo este instalara anaconda 2, asi que abriremos la consola de anaconda para graphlab anaconda prompt (gl-env)
+3. todo lo realizaremos desde esta consola
+4. istalaremos los siguientes paquetes usando el comando pip install "NOMBRE-PAQUETE":
+	scikit-fuzzy
+	openpyxl
+5. luego de esto nos ubicaremos en la carpeta del prollecto usando el comando cd #Ubicacion-LOCAL#/IA-G1
+6. ejecutaremos el codigo usando el comando python main.py 
